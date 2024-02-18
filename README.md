@@ -35,7 +35,7 @@
 <a href="https://medium.com/@cbolat2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cbolat2020" height="30" width="40" /></a>
 
 
-#
+
 
 
 
