@@ -23,6 +23,21 @@
 </body>
 </html>
 
+## Connect with me:
+<p align="left">
+    <a href="https://linkedin.com/in/%c3%a7a%c4%9fr%c4%b1bolat/" target="_blank" rel="noopener noreferrer">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://www.behance.net/cagribolat" target="_blank" rel="noopener noreferrer">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" />
+    </a>
+    <a href="https://medium.com/@cbolat2020" target="_blank" rel="noopener noreferrer">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+    </a>
+</p>
+
+
+
 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=cagribolat&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
