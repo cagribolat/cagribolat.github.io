@@ -19,7 +19,7 @@
 </body>
 </html>
 
- Connect with me:
+ <p><b>Connect with me:</b></p>
 <p align="left">
     <a href="https://linkedin.com/in/%c3%a7a%c4%9fr%c4%b1bolat/" target="_blank" rel="noopener noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
