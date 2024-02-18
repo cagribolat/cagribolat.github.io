@@ -3,13 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Page</title>
-    <style>
-        /* Web adresini gizlemek için CSS */
-        #website-address {
-            display: none;
-        }
-    </style>
+    
+        
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Çağrı</h1>
@@ -24,7 +19,7 @@
 </body>
 </html>
 
-## Connect with me:
+ Connect with me:
 <p align="left">
     <a href="https://linkedin.com/in/%c3%a7a%c4%9fr%c4%b1bolat/" target="_blank" rel="noopener noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
