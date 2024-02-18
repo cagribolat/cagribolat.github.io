@@ -5,14 +5,6 @@
 
 ##
 
-<h3 align="center">https://cagribolat.github.io/
-
-
-
-##
-
-
-
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=cagribolat&label=Profile%20views&color=0e75b6&style=flat" alt="cagribolat" /> </p>
 
