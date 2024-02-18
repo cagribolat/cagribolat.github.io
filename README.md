@@ -14,6 +14,7 @@
 <body>
     <h1 align="center">Hi 👋, I'm Çağrı</h1>
     <h3 align="center">A Junior frontend developer from Türkiye</h3>
+
     <ul>
         <li>🌱 I’m currently learning **Figma,Python,HTML,PHP</li>
     </ul>
