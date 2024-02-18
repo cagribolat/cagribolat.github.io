@@ -33,7 +33,7 @@
 <a href="https://linkedin.com/in/%c3%a7a%c4%9fr%c4%b1bolat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="%c3%a7a%c4%9fr%c4%b1bolat/" height="30" width="40" /></a>
 <a href="https://www.behance.net/cagribolat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="cagribolat" height="30" width="40" /></a>
 <a href="https://medium.com/@cbolat2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cbolat2020" height="30" width="40" /></a>
-</p> 
+
 
 #
 
