@@ -1,7 +1,7 @@
 </head>
 <body>
     <header>
-        <h1>ÇAĞRI BOLAT</h1>
+        <h1></h1>
     </header>
     <nav>
         <a href="#home">Home</a>
