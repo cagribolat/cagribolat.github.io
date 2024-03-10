@@ -1,0 +1,41 @@
+<section id="contact" class="paddingTop">
+    <h1 class="content__heading paddingTop">Get in Touch</h1>
+    <hr>
+
+    <form class="contactForm js-contactForm" id="ajaxForm" action="https://formcarry.com/s/G-4SQ70qhCMS" method="POST" accept-charset="UTF-8">
+        <!-- İletişim formu içeriği buraya gelecek -->
+        <div class="inputFields">
+            <input type="text" placeholder="Name" id="name" class="contactForm__input input" name="name" autocomplete="name" required="">
+            <input type="email" placeholder="Email" id="email" class="contactForm__input input" name="email" autocomplete="email" required="">
+        </div>
+        <input type="text" placeholder="Subject" name="subject" class="contactForm__input subject" required="">
+        <textarea name="message" id="message" class="contactForm__input textBox" cols="30" rows="10" placeholder="Message" required=""></textarea>
+        <div id="g-recaptcha">
+            <!-- reCAPTCHA buraya gelecek -->
+        </div>
+        <br>
+        <input type="submit" name="submit" value="Send Message" class="contactForm__submit">
+    </form>
+
+    <script src="https://carrier.formcarry.com/js/v1.js"></script>
+    <script>
+        formcarry({
+            form: "G-4SQ70qhCMS",
+            element: "#ajaxForm",
+            extraData: {
+                screenSize: `${window.screen.width}x${window.screen.height}`,
+                language: window.navigator.language,
+            },
+            onSuccess: function(response) {
+                alert(response)
+            },
+            onError: function(error) {
+                alert(error)
+            }
+        });
+    </script>
+
+    <div id="submitSuccess" class="successBox">
+        <p class="successMsg" id="successMsg">Message Sent!</p>
+    </div>
+</section>
