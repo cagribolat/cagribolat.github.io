@@ -14,4 +14,3 @@
         <!-- İçerik buraya gelecek -->
     </div>
 </body>
-</html>
