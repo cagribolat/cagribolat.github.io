@@ -1,60 +1,65 @@
 <!DOCTYPE html>
-<html>
+<html lang="tr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Website</title>
+    <title>İletişim - Çağrı Bolat</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #87CEFA; /* Açık mavi arka plan rengi */
-            color: #000; /* Siyah metin rengi */
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            padding: 20px;
         }
-        h1, p, div {
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        h1, h2, h3 {
+            color: #333;
             text-align: center;
         }
-        nav {
-            background-color: #444;
+        p {
             text-align: center;
-            padding: 10px 0;
         }
-        nav a {
-            color: #fff;
+        .contact-info {
+            margin-bottom: 20px;
+        }
+        .contact-info p {
+            margin-bottom: 10px;
+        }
+        .contact-info a {
+            display: block;
             text-decoration: none;
-            margin: 0 10px;
-        }
-        nav a:hover {
-            text-decoration: underline;
-        }
-        .paddingTop {
-            padding-top: 20px;
-        }
-        .centerContent {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-direction: column;
+            color: #333;
+            font-weight: bold;
         }
     </style>
 </head>
 <body>
-
-<header>
-  <h1>Website</h1>
-</header>
-
-<nav>
-  <a href="project.html">Project</a> |
-  <a href="contact.html">Contact</a> <!-- Bu kısımda bağlantıyı güncelledik -->
-</nav>
-
-<section class="paddingTop centerContent">
-    <h1 class="content__heading">Merhaba! Ben Çağrı, Junior UI/UX Tasarımcısıyım. UI/UX tasarımında yeni beceriler kazanıp, en son trendleri ve teknolojileri takip ediyorum</h1>
-    <hr>
-    <!-- Ana sayfa içeriği buraya gelecek -->
-</section>
-
+    <div class="container">
+        <h1>İletişim</h1>
+        <div class="contact-info">
+            <p>Adres: 1234 Örnek Sokak, Örnek Mahalle, Örnek Şehir, Ülke</p>
+            <p>Telefon: +90 123 456 78 90</p>
+            <p>Email: info@cagribolat.com</p>
+        </div>
+        <div class="contact-form">
+            <h2>Bize Ulaşın</h2>
+            <form action="#" method="POST">
+                <label for="name">Adınız:</label><br>
+                <input type="text" id="name" name="name" required><br><br>
+                <label for="email">Email Adresiniz:</label><br>
+                <input type="email" id="email" name="email" required><br><br>
+                <label for="message">Mesajınız:</label><br>
+                <textarea id="message" name="message" rows="4" required></textarea><br><br>
+                <input type="submit" value="Gönder">
+            </form>
+        </div>
+    </div>
 </body>
 </html>
