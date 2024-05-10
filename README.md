@@ -57,7 +57,6 @@
         Skills: Figma, Graphical User Interface, User Experience Design
         <div class="project">
     
-            </a>
             <p></p>
             <a href="https://media.licdn.com/dms/image/D4D2DAQHScyPd7xDobg/profile-treasury-image-shrink_1920_1920/0/1713532501891?e=1715954400&v=beta&t=y7Q0hTFB9ao2my-u-awwItS1LZDmsd1FXTEOlsFYpBs">Preview</a>
             <a href="https://www.figma.com/file/yLoMoGKzkW2cuaA6t1CRCJ/Getir">View project Figma</a>
