@@ -2,7 +2,6 @@
   <a href="project.html">Project</a> |
   
   <a href="contact.html">Contact</a>
-</nav>
 
 <section class="paddingTop centerContent">
     <h1 class="content__heading">Merhaba! Ben Çağrı, Junior UI/UX Tasarımcısıyım. 
