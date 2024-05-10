@@ -43,7 +43,8 @@
 </head>
 <body>
     <div class="container">
-        <h1>Çağrı Bolat - Junior UI/UX Tasarımcısı</h1>
+        <h1>Çağrı Bolat - Junior UI/UX Tasarımcısı</h1>![52715393](https://github.com/cagribolat/cagribolat.github.io/assets/52715393/03f4d09c-fe2e-4032-8fee-4bb07a4b07b4)
+
         <p>Hello! I'm Çağrı, Junior UI/UX Designer, learning new skills in UI/UX design and keeping up with the latest trends and technologies.</p>
         
         <div class="project">
