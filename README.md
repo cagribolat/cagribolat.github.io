@@ -72,7 +72,7 @@
             <a href="https://www.figma.com/file/7LPMc0xhOIgaCbCI85NspF/TESLA.COM">
                 <img src="https://media.licdn.com/dms/image/D4D2DAQHyo84x5-YNfw/profile-treasury-image-shrink_1920_1920/0/1709302372595?e=1715958000&v=beta&t=HsniLImt7gsPlUXKWmV0edKK_2_4uYlZULN6axTN5tc" alt="Tesla Web Sitesi Redesign">
             </a>
-            <p></p>
+            
             <a href="https://media.licdn.com/dms/image/D4D2DAQHyo84x5-YNfw/profile-treasury-image-shrink_1920_1920/0/1709302372595?e=1715958000&v=beta&t=HsniLImt7gsPlUXKWmV0edKK_2_4uYlZULN6axTN5tc">Preview</a>
             <a href="https://www.figma.com/file/7LPMc0xhOIgaCbCI85NspF/TESLA.COM">View project Figma</a>
        <hr>
@@ -82,7 +82,7 @@
             <a href="https://www.figma.com/file/qlsIaUfsSRHha7UOJqaiA1/Telefon-Do%C4%9Frulamas%C4%B1-Yap%C4%B1m%C4%B1">
                 <img src="https://media.licdn.com/dms/image/D4D2DAQEEhBtGfVtGTg/profile-treasury-image-shrink_1920_1920/0/1715349284376?e=1715954400&v=beta&t=-IaisvtCpenjm_3G3snf7AzR-Dqj8zwrFi9ffPYeUQU" alt="Phone Verification">
             </a>
-            <p></p>
+            
             <a href="https://media.licdn.com/dms/image/D4D2DAQEEhBtGfVtGTg/profile-treasury-image-shrink_1920_1920/0/1715349284376?e=1715954400&v=beta&t=-IaisvtCpenjm_3G3snf7AzR-Dqj8zwrFi9ffPYeUQU">Preview</a>
             <a href="https://www.figma.com/file/qlsIaUfsSRHha7UOJqaiA1/Telefon-Do%C4%9Frulamas%C4%B1-Yap%C4%B1m%C4%B1">View project Figma</a>
         <hr>
