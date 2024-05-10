@@ -1,4 +1,4 @@
-<html lang="tr"><!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -7,7 +7,7 @@ img {
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
-  width: 150px;
+  width:50px;
 }
 
 img:hover {
@@ -18,13 +18,9 @@ img:hover {
 <body>
 
 <a target="_blank" href="https://github.com/cagribolat/cagribolat.github.io/assets/52715393/4752c7e0-1ee1-4e4e-a630-4c0386421312">
-  <img src="https://github.com/cagribolat/cagribolat.github.io/assets/52715393/4752c7e0-1ee1-4e4e-a630-4c0386421312" alt="Forest" style="width:150px">
+  <img src="https://github.com/cagribolat/cagribolat.github.io/assets/52715393/4752c7e0-1ee1-4e4e-a630-4c0386421312" alt="Forest" style="width:50px">
 </a>
 
-</body>
-</html>
-
-<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Çağrı Bolat - Junior UI/UX Designer</title>
