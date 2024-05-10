@@ -87,5 +87,3 @@
             <a href="https://www.figma.com/file/qlsIaUfsSRHha7UOJqaiA1/Telefon-Do%C4%9Frulamas%C4%B1-Yap%C4%B1m%C4%B1">View project Figma</a>
         <hr>
     </div>
-</body>
-</html>
