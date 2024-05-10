@@ -53,7 +53,7 @@
     <div class="container">
         <h1>Çağrı Bolat - Junior UI/UX Tasarımcısı</h1>
         <p>Hello! I'm Çağrı, a Junior UI/UX Designer, learning new skills in UI/UX design and following the latest trends and technologies.</p>
-        
+        <hr>
         Skills: Figma, Graphical User Interface, User Experience Design
         <hr>
         <div class="project">
