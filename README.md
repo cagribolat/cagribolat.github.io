@@ -85,7 +85,32 @@ img:hover {
 
 
             <h2>Getir Redesign</h2>
-            <a href="https://media.licdn.com/dms/image/D4D2DAQHScyPd7xDobg/profile-treasury-image-shrink_1920_1920/0/1713532501891?e=1715954400&v=beta&t=y7Q0hTFB9ao2my-u-awwItS1LZDmsd1FXTEOlsFYpBs">
+            <!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width:50px;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+</style>
+</head>
+<body>
+
+<a target="_blank" href="https://github.com/cagribolat/cagribolat.github.io/assets/52715393/4752c7e0-1ee1-4e4e-a630-4c0386421312">
+  <img src="https://github.com/cagribolat/cagribolat.github.io/assets/52715393/4752c7e0-1ee1-4e4e-a630-4c0386421312" alt="Forest" style="width:50px">
+</a>
+
+</body>
+</html>
+
                 <img src="https://media-exp1.licdn.com/dms/image/C5622AQFyXYPLojxGiw/feedshare-shrink_800-alternative/0/1619286116757?e=1622678400&v=beta&t=5h4avTH1WUGYB9cv3Q2LBebn-4s2LU8sQqIx62ePt5M" alt="Getir Redesign">
             </a>
             <a href="https://www.figma.com/file/yLoMoGKzkW2cuaA6t1CRCJ/Getir">Review Project</a>
