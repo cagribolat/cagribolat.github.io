@@ -1,4 +1,29 @@
-<html lang="tr">
+<html lang="tr"><!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+</style>
+</head>
+<body>
+
+<a target="_blank" href="https://github.com/cagribolat/cagribolat.github.io/assets/52715393/4752c7e0-1ee1-4e4e-a630-4c0386421312">
+  <img src="https://github.com/cagribolat/cagribolat.github.io/assets/52715393/4752c7e0-1ee1-4e4e-a630-4c0386421312" alt="Forest" style="width:150px">
+</a>
+
+</body>
+</html>
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
