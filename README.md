@@ -81,9 +81,6 @@ img:hover {
         <div class="project">
 
 
-
-
-
             <h2>Getir Redesign</h2>
             <!DOCTYPE html>
 <html>
