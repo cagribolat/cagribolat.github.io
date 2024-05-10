@@ -55,9 +55,9 @@
         <p>Hello! I'm Çağrı, a Junior UI/UX Designer, learning new skills in UI/UX design and following the latest trends and technologies.</p>
         
         Skills: Figma, Graphical User Interface, User Experience Design
+        
         <div class="project">
-
-          Getir Redesign
+            <h2>Getir Redesign</h2>
     
             <p></p>
             <a href="https://media.licdn.com/dms/image/D4D2DAQHScyPd7xDobg/profile-treasury-image-shrink_1920_1920/0/1713532501891?e=1715954400&v=beta&t=y7Q0hTFB9ao2my-u-awwItS1LZDmsd1FXTEOlsFYpBs">Preview</a>
