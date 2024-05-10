@@ -1,6 +1,4 @@
-Tabii, işte tüm `h2` başlıkları için görsel ekleyerek düzenlenmiş HTML kodu:
 
-```html
 <!DOCTYPE html>
 <html lang="tr">
 <head>
