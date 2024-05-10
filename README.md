@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Çağrı Bolat - Junior UI/UX Tasarımcısı</title>
+    <title>Çağrı Bolat - Junior UI/UX Designer</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -44,7 +44,7 @@
 <body>
     <div class="container">
         <h1>Çağrı Bolat - Junior UI/UX Tasarımcısı</h1>
-        <p>Merhaba! Ben Çağrı, Junior UI/UX Tasarımcısıyım. UI/UX tasarımında yeni beceriler kazanıp, en son trendleri ve teknolojileri takip ediyorum.</p>
+        <p>Hello! I'm Çağrı, Junior UI/UX Designer, learning new skills in UI/UX design and keeping up with the latest trends and technologies.</p>
         
         <div class="project">
 
@@ -53,7 +53,7 @@
                 <img src="https://media-exp1.licdn.com/dms/image/C5622AQFyXYPLojxGiw/feedshare-shrink_800-alternative/0/1619286116757?e=1622678400&v=beta&t=5h4avTH1WUGYB9cv3Q2LBebn-4s2LU8sQqIx62ePt5M" alt="Tesla Web Sitesi Redesign">
             </a>
             <a href="https://www.figma.com/file/7LPMc0xhOIgaCbCI85NspF/TESLA.COM">Projeyi İncele</a>
-            <p>Yetenekler: Figma, Grafik Kullanıcı Arayüzü (GUI), Kullanıcı Deneyimi Tasarımı (UED)</p>
+            <p>Skills: Figma, Graphical User Interface (GUI), User Experience Design (UED)</p>
         </div>
 
         <div class="project">
@@ -67,7 +67,7 @@
                 <img src="https://media-exp1.licdn.com/dms/image/C5622AQFyXYPLojxGiw/feedshare-shrink_800-alternative/0/1619286116757?e=1622678400&v=beta&t=5h4avTH1WUGYB9cv3Q2LBebn-4s2LU8sQqIx62ePt5M" alt="Getir Redesign">
             </a>
             <a href="https://www.figma.com/file/yLoMoGKzkW2cuaA6t1CRCJ/Getir">Projeyi İncele</a>
-            <p>Yetenekler: Grafik Kullanıcı Arayüzü (GUI), Kullanıcı Arabirimi Tasarımı, Kullanıcı Deneyimi Tasarımı (UED)</p>
+            <p>Skills:Graphical User Interface (GUI), User Experience Design (UED)</p>
         </div>
 
         <div class="project">
@@ -79,7 +79,7 @@
                 <img src="https://media-exp1.licdn.com/dms/image/C5622AQFyXYPLojxGiw/feedshare-shrink_800-alternative/0/1619286116757?e=1622678400&v=beta&t=5h4avTH1WUGYB9cv3Q2LBebn-4s2LU8sQqIx62ePt5M" alt="Telefon Doğrulaması - Phone Verification">
             </a>
             <a href="https://www.figma.com/file/qlsIaUfsSRHha7UOJqaiA1/Telefon-Do%C4%9Frulamas%C4%B1-Yap%C4%B1m%C4%B1">Projeyi İncele</a>
-            <p>Yetenekler: Figma, Grafik Kullanıcı Arayüzü (GUI), Kullanıcı Deneyimi Tasarımı (UED)</p>
+            <p>Skills: Figma, Graphical User Interface (GUI), User Experience Design (UED)</p>
         </div>
     </div>
 </body>
