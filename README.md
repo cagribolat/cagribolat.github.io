@@ -1,4 +1,5 @@
 
+<!DOCTYPE html>
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
@@ -34,6 +35,7 @@
             width: 50px;
             height: 50px;
             margin-bottom: 10px;
+            border-radius: 5px;
         }
         .project a {
             display: block;
@@ -47,35 +49,38 @@
         <p>Merhaba! Ben Çağrı, Junior UI/UX Tasarımcısıyım. UI/UX tasarımında yeni beceriler kazanıp, en son trendleri ve teknolojileri takip ediyorum.</p>
         
         <div class="project">
+
+<h2>Tesla Web Sitesi Redesign</h2>
+            <a href="https://media.licdn.com/dms/image/D4D2DAQHyo84x5-YNfw/profile-treasury-image-shrink_1920_1920/0/1709302372595?e=1715954400&v=beta&t=PBTA533RO025aWQT_s1hWU6Um9XTJoRDekLjklQMUKo">
+                <img src="https://media-exp1.licdn.com/dms/image/C5622AQFyXYPLojxGiw/feedshare-shrink_800-alternative/0/1619286116757?e=1622678400&v=beta&t=5h4avTH1WUGYB9cv3Q2LBebn-4s2LU8sQqIx62ePt5M" alt="Tesla Web Sitesi Redesign">
+            </a>
+            <a href="https://www.figma.com/file/7LPMc0xhOIgaCbCI85NspF/TESLA.COM">Projeyi İncele</a>
+            <p>Yetenekler: Figma, Grafik Kullanıcı Arayüzü (GUI), Kullanıcı Deneyimi Tasarımı (UED)</p>
+        </div>
+
+        <div class="project">
+
+
+
+
+
             <h2>Getir Redesign</h2>
             <a href="https://media.licdn.com/dms/image/D4D2DAQHScyPd7xDobg/profile-treasury-image-shrink_1920_1920/0/1713532501891?e=1715954400&v=beta&t=y7Q0hTFB9ao2my-u-awwItS1LZDmsd1FXTEOlsFYpBs">
-                <img src="https://media.licdn.com/dms/image/D4D2DAQHScyPd7xDobg/profile-treasury-image-shrink_1920_1920/0/1713532501891?e=1715954400&v=beta&t=y7Q0hTFB9ao2my-u-awwItS1LZDmsd1FXTEOlsFYpBs" alt="Getir Redesign">
+                <img src="https://media-exp1.licdn.com/dms/image/C5622AQFyXYPLojxGiw/feedshare-shrink_800-alternative/0/1619286116757?e=1622678400&v=beta&t=5h4avTH1WUGYB9cv3Q2LBebn-4s2LU8sQqIx62ePt5M" alt="Getir Redesign">
             </a>
-
-<a href="https://www.figma.com/file/yLoMoGKzkW2cuaA6t1CRCJ/Getir">Projeyi İncele</a>
+            <a href="https://www.figma.com/file/yLoMoGKzkW2cuaA6t1CRCJ/Getir">Projeyi İncele</a>
             <p>Yetenekler: Grafik Kullanıcı Arayüzü (GUI), Kullanıcı Arabirimi Tasarımı, Kullanıcı Deneyimi Tasarımı (UED)</p>
         </div>
 
         <div class="project">
 
-            <h2>Tesla Web Sitesi Redesign</h2>
-            <a href="https://media.licdn.com/dms/image/D4D2DAQHyo84x5-YNfw/profile-treasury-image-shrink_1920_1920/0/1709302372595?e=1715954400&v=beta&t=PBTA533RO025aWQT_s1hWU6Um9XTJoRDekLjklQMUKo">
-                <img src="https://media.licdn.com/dms/image/D4D2DAQHyo84x5-YNfw/profile-treasury-image-shrink_1920_1920/0/1709302372595?e=1715954400&v=beta&t=PBTA533RO025aWQT_s1hWU6Um9XTJoRDekLjklQMUKo" alt="Tesla Web Sitesi Redesign">
-            </a>
-            <p>Yetenekler: Figma, Grafik Kullanıcı Arayüzü (GUI), Kullanıcı Deneyimi Tasarımı (UED)</p>
-            <a href="https://www.figma.com/file/7LPMc0xhOIgaCbCI85NspF/TESLA.COM">Projeyi İncele</a>
-        </div>
-
-        <div class="project">
+            
 
             <h2>Telefon Doğrulaması - Phone Verification</h2>
-            <a href="https://www.figma.com/file/qlsIaUfsSRHha7UOJqaiA1/Telefon-Do%C4%9Frulamas%C4%B1-Yap%C4%B1m%C4%B1?type=design&node-id=0-1&mode=design" target="_blank">
-                <img src="https://media.licdn.com/dms/image/D4D2DAQHqYQhs-BQBUA/profile-treasury-image-shrink_1920_1920/0/1713532422374?e=1715954400&v=beta&t=JQdx0v1awbH1flhFb7JYp7icw3iJ0sP1KzHCCArUZK4" alt="Telefon Doğrulaması - Phone Verification">
+            <a href="https://media.licdn.com/dms/image/D4D2DAQEEhBtGfVtGTg/profile-treasury-image-shrink_1920_1920/0/1715349284376?e=1715954400&v=beta&t=-IaisvtCpenjm_3G3snf7AzR-Dqj8zwrFi9ffPYeUQU">
+                <img src="https://media-exp1.licdn.com/dms/image/C5622AQFyXYPLojxGiw/feedshare-shrink_800-alternative/0/1619286116757?e=1622678400&v=beta&t=5h4avTH1WUGYB9cv3Q2LBebn-4s2LU8sQqIx62ePt5M" alt="Telefon Doğrulaması - Phone Verification">
             </a>
-
-<a href="https://www.figma.com/file/qlsIaUfsSRHha7UOJqaiA1/Telefon-Do%C4%9Frulamas%C4%B1-Yap%C4%B1m%C4%B1">Projeyi İncele</a>
-
-
+            <a href="https://www.figma.com/file/qlsIaUfsSRHha7UOJqaiA1/Telefon-Do%C4%9Frulamas%C4%B1-Yap%C4%B1m%C4%B1">Projeyi İncele</a>
             <p>Yetenekler: Figma, Grafik Kullanıcı Arayüzü (GUI), Kullanıcı Deneyimi Tasarımı (UED)</p>
         </div>
     </div>
