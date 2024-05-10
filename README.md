@@ -56,8 +56,6 @@
         
         Skills: Figma, Graphical User Interface, User Experience Design
         <div class="project">
-        
-            <h2>Getir Redesign</h2>
     
             </a>
             <p></p>
