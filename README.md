@@ -53,8 +53,8 @@
          
        
         
-        <h1>Çağrı Bolat - Junior UI/UX Designer</h1>
-        <p>Hello! I'm Çağrı, a Junior UI/UX Designer, learning new skills in UI/UX design and following the latest trends and technologies.</p>
+        <h1>Çağrı Bolat - UI/UX Designer</h1>
+        <p>Hello! I'm Çağrı,UI/UX Designer, learning new skills in UI/UX design and following the latest trends and technologies.</p>
         
         <div class="project">
             <hr>
