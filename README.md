@@ -138,5 +138,3 @@
         <div class="contact-info">
             
             <p><a href="https://www.linkedin.com/in/%C3%A7a%C4%9Fr%C4%B1bolat/">Linkedin</a></p>
-</body>
-</html>
