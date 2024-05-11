@@ -1,58 +1,7 @@
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <title>Çağrı Bolat - UI/UX Designer</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: #f4f4f4;
-            padding: 20px;
-        }
-        .container {
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-            max-width: 600px;
-            margin: 0 auto;
-        }
-        h1, h2, h3 {
-            color: #333;
-            text-align: center;
-        }
-        p {
-            text-align: center;
-        }
-        .project {
-            margin-bottom: 20px;
-            text-align: center;
-        }
-        .project img {
-            border: 1px solid #ddd;
-            border-radius: 4px;
-            padding: 5px;
-            width:50px;
-        }
-        .project img:hover {
-            box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
-        }
-        .project a {
-            display: block;
-            margin-top: 10px;
-            text-decoration: none;
-            color: #333;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-         
-       
-        
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">        
         <h1>Çağrı Bolat - UI/UX Designer</h1>
         <p>Hello! I'm Çağrı,UI/UX Designer, learning new skills in UI/UX design and following the latest trends and technologies.</p>
         
