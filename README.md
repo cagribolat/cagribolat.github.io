@@ -54,7 +54,7 @@
         
         <div class="project">
             <hr>
-
+             https://avatars.githubusercontent.com/u/52715393?v=4
             <h2>Getir Redesign</h2>
                 
             
