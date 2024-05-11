@@ -51,7 +51,7 @@
 <body>
     <div class="container">
          
-       "https://avatars.githubusercontent.com/u/52715393?v=4.jpg" width="100" height="100">
+       <img src="https://avatars.githubusercontent.com/u/52715393?v=4.jpg" alt="Flowers in Chania" width="100" height="100">
         
         <h1>Çağrı Bolat - Junior UI/UX Designer</h1>
         <p>Hello! I'm Çağrı, a Junior UI/UX Designer, learning new skills in UI/UX design and following the latest trends and technologies.</p>
