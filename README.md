@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <img src="https://avatars.githubusercontent.com/u/52715393?v=4.jpg" alt="Flowers in Chania" width="100" height="100">
+    
     <title>Çağrı Bolat - Junior UI/UX Designer</title>
     <style>
         body {
@@ -50,6 +50,8 @@
 </head>
 <body>
     <div class="container">
+<img src="https://avatars.githubusercontent.com/u/52715393?v=4.jpg" alt="Flowers in Chania" width="100" height="100">
+        
         <h1>Çağrı Bolat - Junior UI/UX Designer</h1>
         <p>Hello! I'm Çağrı, a Junior UI/UX Designer, learning new skills in UI/UX design and following the latest trends and technologies.</p>
         
