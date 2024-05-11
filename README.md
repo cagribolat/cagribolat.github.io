@@ -2,6 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <img src="https://avatars.githubusercontent.com/u/52715393?v=4.jpg" alt="Flowers in Chania" width="100" height="100">
     <title>Çağrı Bolat - Junior UI/UX Designer</title>
     <style>
         body {
@@ -54,7 +55,7 @@
         
         <div class="project">
             <hr>
-             https://avatars.githubusercontent.com/u/52715393?v=4
+             
             <h2>Getir Redesign</h2>
                 
             
