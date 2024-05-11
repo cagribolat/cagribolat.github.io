@@ -1,7 +1,11 @@
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">        
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+
+<p hidden>https://cagribolat.github.io.</p>
+
+    
         <h1>Çağrı Bolat - UI/UX Designer</h1>
         <p>Hello! I'm Çağrı,UI/UX Designer, learning new skills in UI/UX design and following the latest trends and technologies.</p>
         
