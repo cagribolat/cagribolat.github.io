@@ -169,8 +169,7 @@
             font-weight: bold;
         }
     </style>
-</head>
-<body>
+
     <div class="container">
         <h1>İletişim</h1>
         <div class="contact-info">
