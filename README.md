@@ -63,7 +63,7 @@
                 <button id="preview-getir" class="preview-button">Preview Getir Redesign</button>
             
             
-            <!DOCTYPE html>
+            
 <html lang="en">
 <head>
     <meta charset="UTF-8">
