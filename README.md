@@ -61,7 +61,8 @@
              
             <h2>Getir Redesign</h2>
                 <button id="preview-getir" class="preview-button">Preview Getir Redesign</button>
-            
+                
+            <a href="https://www.figma.com/design/yLoMoGKzkW2cuaA6t1CRCJ/Getir">View project Figma</a>
             
             
 <html lang="en">
