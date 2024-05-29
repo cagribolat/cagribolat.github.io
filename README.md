@@ -63,9 +63,43 @@
                 
             
             
-            [[<a href="(https://raw.githubusercontent.com/cagribolat/cagribolat.github.io/main/Getir%20Redesign.jpg)
-            <a href="https://www.figma.com/file/yLoMoGKzkW2cuaA6t1CRCJ/Getir">View project Figma</a>
-        </div>
+            <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Preview Images</title>
+    <style>
+        .preview-button {
+            font-weight: bold;
+            padding: 10px 20px;
+            font-size: 16px;
+            margin: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <button id="preview-getir" class="preview-button">Preview Getir Redesign</button>
+    <button id="preview-tesla" class="preview-button">Preview Tesla Redesign</button>
+    <button id="preview-telefon" class="preview-button">Preview Telefon Doğrulaması</button>
+
+    <script>
+        document.getElementById('preview-getir').addEventListener('click', function() {
+            window.open('https://raw.githubusercontent.com/cagribolat/cagribolat.github.io/main/Getir%20Redesign.jpg', '_blank');
+        });
+
+        document.getElementById('preview-tesla').addEventListener('click', function() {
+            window.open('https://raw.githubusercontent.com/cagribolat/cagribolat.github.io/main/Tesla%20web%20site%20Redesign.jpg', '_blank');
+        });
+
+        document.getElementById('preview-telefon').addEventListener('click', function() {
+            window.open('https://raw.githubusercontent.com/cagribolat/cagribolat.github.io/main/Telefon%20Do%C4%9Frulamas%C4%B1.jpg', '_blank');
+        });
+    </script>
+</body>
+</html>
+
         
         
          <hr>
