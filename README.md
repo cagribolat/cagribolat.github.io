@@ -46,6 +46,15 @@
             border-top: 1px solid #eee;
             margin: 20px 0;
         }
+        .contact {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+        .contact a {
+            margin-top: 0;
+        }
     </style>
 </head>
 <body>
