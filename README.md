@@ -1,8 +1,9 @@
+
+<!DOCTYPE html>
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
     <title>Çağrı Bolat - UI/UX Designer</title>
     <style>
         body {
@@ -18,160 +19,65 @@
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
             max-width: 600px;
             margin: 0 auto;
+            text-align: center;
         }
         h1, h2, h3 {
             color: #333;
-            text-align: center;
-        }
-        p {
-            text-align: center;
         }
         .project {
             margin-bottom: 20px;
-            text-align: center;
         }
-        .project img {
-            border: 1px solid #ddd;
-            border-radius: 4px;
-            padding: 5px;
-            width:50px;
-        }
-        .project img:hover {
-            box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
-        }
-        .project a {
-            display: block;
+        .project a, .contact a {
+            display: inline-block;
             margin-top: 10px;
             text-decoration: none;
             color: #333;
-            font-weight: bold;
+            font-weight: lighter;
+            background-color: white;
+            border: 1px solid #ccc;
+            padding: 10px 20px;
+            border-radius: 5px;
+        }
+        .project a:hover, .contact a:hover {
+            background-color: #f4f4f4;
+        }
+        .project hr, .contact hr {
+            border: 0;
+            border-top: 1px solid #eee;
+            margin: 20px 0;
         }
     </style>
 </head>
 <body>
     <div class="container">
-         
-       
-        
         <h1>Çağrı Bolat - UI/UX Designer</h1>
         <p>Hello! I'm Çağrı, a UI/UX Designer, learning new skills in UI/UX design and following the latest trends and technologies.</p>
         
         <div class="project">
-            <hr>
-             
             <h2>Getir Redesign</h2>
-                <button id="preview-getir" class="preview-button">Preview Getir Redesign</button>
-                
-            <a href="https://www.figma.com/design/yLoMoGKzkW2cuaA6t1CRCJ/Getir">View project Figma</a>
-            
-            
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Preview Images</title>
-    <style>
-        .preview-button {
-            font-weight: bold;
-            padding: 10px 20px;
-            font-size: 16px;
-            margin: 5px;
-            cursor: pointer;
-        }
-    </style>
-</head>
-<body>
-    
-    
-    
-
-    <script>
-        document.getElementById('preview-getir').addEventListener('click', function() {
-            window.open('https://raw.githubusercontent.com/cagribolat/cagribolat.github.io/main/Getir%20Redesign.jpg', '_blank');
-        });
-
-        document.getElementById('preview-tesla').addEventListener('click', function() {
-            window.open('https://raw.githubusercontent.com/cagribolat/cagribolat.github.io/main/Tesla%20web%20site%20Redesign.jpg', '_blank');
-        });
-
-        document.getElementById('preview-telefon').addEventListener('click', function() {
-            window.open('https://raw.githubusercontent.com/cagribolat/cagribolat.github.io/main/Telefon%20Do%C4%9Frulamas%C4%B1.jpg', '_blank');
-        });
-    </script>
-</body>
-</html>
-
+            <a href="https://media.licdn.com/dms/image/D4D2DAQHScyPd7xDobg/profile-treasury-image-shrink_1920_1920/0/1713532501891?e=1715954400&v=beta&t=y7Q0hTFB9ao2my-u-awwItS1LZDmsd1FXTEOlsFYpBs" target="_blank">Preview</a>
+            <a href="https://www.figma.com/file/yLoMoGKzkW2cuaA6t1CRCJ/Getir" target="_blank">View project Figma</a>
+        </div>
         
-        
-         <hr>
-
         <div class="project">
+            <hr>
             <h2>Tesla Web Sitesi Redesign</h2>
-            
-                
-            
-            
-            <button id="preview-tesla" class="preview-button">Preview Tesla Redesign</button>
-            <a href="https://www.figma.com/file/7LPMc0xhOIgaCbCI85NspF/TESLA.COM">View project Figma</a>
+            <a href="https://media.licdn.com/dms/image/D4D2DAQHyo84x5-YNfw/profile-treasury-image-shrink_1920_1920/0/1709302372595?e=1715958000&v=beta&t=HsniLImt7gsPlUXKWmV0edKK_2_4uYlZULN6axTN5tc" target="_blank">Preview</a>
+            <a href="https://www.figma.com/file/7LPMc0xhOIgaCbCI85NspF/TESLA.COM" target="_blank">View project Figma</a>
         </div>
 
-         <hr>
         <div class="project">
+            <hr>
             <h2>Phone Verification</h2>
-            
-                
-            
-            
-           <button id="preview-telefon" class="preview-button">Preview Telefon Doğrulaması</button>
-            <a href="https://www.figma.com/file/qlsIaUfsSRHha7UOJqaiA1/Telefon-Do%C4%9Frulamas%C4%B1-Yap%C4%B1m%C4%B1">View project Figma</a>
+            <a href="https://media.licdn.com/dms/image/D4D2DAQEEhBtGfVtGTg/profile-treasury-image-shrink_1920_1920/0/1715349284376?e=1715954400&v=beta&t=-IaisvtCpenjm_3G3snf7AzR-Dqj8zwrFi9ffPYeUQU" target="_blank">Preview</a>
+            <a href="https://www.figma.com/file/qlsIaUfsSRHha7UOJqaiA1/Telefon-Do%C4%9Frulamas%C4%B1-Yap%C4%B1m%C4%B1" target="_blank">View project Figma</a>
+        </div>
+
+        <div class="contact">
+            <hr>
+            <h2>İletişim</h2>
+            <a href="https://www.linkedin.com/in/%C3%A7a%C4%9Fr%C4%B1bolat/" target="_blank">Linkedin</a>
         </div>
     </div>
 </body>
 </html>
-
-<html lang="tr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>İletişim - Çağrı Bolat</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: #f4f4f4;
-            padding: 20px;
-        }
-        .container {
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-            max-width: 600px;
-            margin: 0 auto;
-        }
-        h1, h2, h3 {
-            color: #333;
-            text-align: center;
-        }
-        p {
-            text-align: center;
-        }
-        .contact-info {
-            margin-bottom: 20px;
-        }
-        .contact-info p {
-            margin-bottom: 10px;
-        }
-        .contact-info a {
-            display: block;
-            text-decoration: none;
-            color: #333;
-            font-weight: bold;
-        }
-    </style>
-
-    <div class="container">
-        <h1>İletişim</h1>
-        <div class="contact-info">
-            
-            <p><a href="https://www.linkedin.com/in/%C3%A7a%C4%9Fr%C4%B1bolat/">Linkedin</a></p>
