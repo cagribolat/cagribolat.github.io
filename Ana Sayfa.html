@@ -22,6 +22,10 @@
         h1, h2, h3 {
             color: #333;
         }
+        h1 a {
+            text-decoration: none;
+            color: #333;
+        }
         .project {
             margin-bottom: 20px;
         }
@@ -57,7 +61,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Çağrı Bolat - UI/UX Designer</h1>
+        <h1><a href="https://cagribolat.github.io/">Çağrı Bolat - UI/UX Designer</a></h1>
         <p>Hello! I'm Çağrı, a UI/UX Designer, learning new skills in UI/UX design and following the latest trends and technologies.</p>
         
         <div class="project">
