@@ -75,7 +75,7 @@
 
         <div class="contact">
             <hr>
-            <h2>İletişim</h2>
+            <h2>Contact</h2>
             <a href="https://www.linkedin.com/in/%C3%A7a%C4%9Fr%C4%B1bolat/" target="_blank">Linkedin</a>
         </div>
     </div>
