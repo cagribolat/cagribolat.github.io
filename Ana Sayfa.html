@@ -56,6 +56,7 @@
         }
         .contact a {
             margin-top: 10px;
+            margin-left: 5px; /* Eklenen kısım */
         }
     </style>
 </head>
