@@ -1,4 +1,5 @@
-<html lang="en-US"><head>
+<html lang="en-US">
+<head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -87,6 +88,13 @@
         .contact a {
             margin-top: 10px;
             margin-left: 5px;
+            display: inline-block;
+            padding: 10px 20px;
+            border: 1px solid #007bff;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
         }
     </style>
 </head>
@@ -96,47 +104,44 @@
         <p>Hello! I'm Çağrı, a UI/UX Designer, learning new skills in UI/UX design and following the latest trends and technologies.</p>
         
         <div class="project">
-            <h2 id="tesla-web-sitesi-redesign">Tesla Web Sitesi Redesign</h2>
+            <h2>Tesla Web Sitesi Redesign</h2>
             <a href="https://media.licdn.com/dms/image/D4D2DAQHyo84x5-YNfw/profile-treasury-image-shrink_1920_1920/0/1709302372595?e=1715958000&amp;v=beta&amp;t=HsniLImt7gsPlUXKWmV0edKK_2_4uYlZULN6axTN5tc" target="_blank" class="preview">Preview</a>
             <a href="https://www.figma.com/file/7LPMc0xhOIgaCbCI85NspF/TESLA.COM" target="_blank">View project Figma</a>
         </div>
         
         <div class="project">
             <hr>
-            <h2 id="onepage-web-sitesi-design">OnePage Web Sitesi Design</h2>
+            <h2>OnePage Web Sitesi Design</h2>
             <a href="https://github.com/cagribolat/cagribolat.github.io/blob/main/onepage.jpg?raw=true" target="_blank" class="preview">Preview</a>
             <a href="https://www.figma.com/file/6Lv7JIA6x26RVtNGbIY9OA/onepage" target="_blank">View project Figma</a>
         </div>
         
         <div class="project">
             <hr>
-            <h2 id="yemek-siparis-uygulamasi">Yemek Sipariş Uygulaması</h2>
+            <h2>Yemek Sipariş Uygulaması</h2>
             <a href="https://github.com/cagribolat/cagribolat.github.io/blob/main/loading.jpg?raw=true" target="_blank" class="preview">Preview</a>
             <a href="https://www.figma.com/design/lEmtXrxN01QjDQ3vqS3LP5/Yemek-Sipari%C5%9F-Uygulamas%C4%B1?node-id=0-1" target="_blank">View project Figma</a>
         </div>
 
         <div class="project">
             <hr>
-            <h2 id="getir-redesign">Getir Redesign</h2>
+            <h2>Getir Redesign</h2>
             <a href="https://media.licdn.com/dms/image/D4D2DAQHScyPd7xDobg/profile-treasury-image-shrink_1920_1920/0/1713532501891?e=1715954400&amp;v=beta&amp;t=y7Q0hTFB9ao2my-u-awwItS1LZDmsd1FXTEOlsFYpBs" target="_blank" class="preview">Preview</a>
             <a href="https://www.figma.com/file/yLoMoGKzkW2cuaA6t1CRCJ/Getir" target="_blank">View project Figma</a>
         </div>
         
         <div class="project">
             <hr>
-            <h2 id="phone-verification">Phone Verification</h2>
+            <h2>Phone Verification</h2>
             <a href="https://media.licdn.com/dms/image/D4D2DAQEEhBtGfVtGTg/profile-treasury-image-shrink_1920_1920/0/1715349284376?e=1715954400&amp;v=beta&amp;t=-IaisvtCpenjm_3G3snf7AzR-Dqj8zwrFi9ffPYeUQU" target="_blank" class="preview">Preview</a>
             <a href="https://www.figma.com/file/qlsIaUfsSRHha7UOJqaiA1/Telefon-Do%C4%9Frulamas%C4%B1-Yap%C4%B1m%C4%B1" target="_blank">View project Figma</a>
         </div>
 
         <div class="contact">
             <hr>
-            <h2 id="contact">Contact</h2>
-            <a href="https://www.linkedin.com/in/%C3%A7a%C4%9Fr%C4%B1bolat/" target="_blank" style="display: inline-block; padding: 10px 20px; border: 1px solid #007bff; border-radius: 5px; background-color: #007bff; color: #fff; text-decoration: none;">LinkedIn</a>
-
+            <h2>Contact</h2>
+            <a href="https://www.linkedin.com/in/%C3%A7a%C4%9Fr%C4%B1bolat/" target="_blank">LinkedIn</a>
         </div>
     </div>
-    
-
-
-</body></html>
+</body>
+</html>
