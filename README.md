@@ -1,4 +1,3 @@
-</head>
 <body>
     <div class="container">
         <img src="https://avatars.githubusercontent.com/u/52715393?v=4" alt="Çağrı Bolat" class="profile-photo">
