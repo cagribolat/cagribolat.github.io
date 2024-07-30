@@ -18,7 +18,7 @@
 {"@context":"https://schema.org","@type":"WebSite","headline":"Çağrı Bolat","name":"Çağrı Bolat","url":"https://cagribolat.github.io/"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=0b34862b0af01ac489de49a12e4f18f70333c424">
+    <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=5235d1715f149ec9b5a94b68e6907a6e07f754fd">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -34,10 +34,49 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://cagribolat.github.io/">Çağrı Bolat</a></h1>
+      <h1></h1>
       
 
-      <p>&lt;!DOCTYPE html&gt;</p>
+      
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Çağrı Bolat</title>
+<meta name="generator" content="Jekyll v3.9.5">
+<meta property="og:title" content="Çağrı Bolat">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://cagribolat.github.io/">
+<meta property="og:url" content="https://cagribolat.github.io/">
+<meta property="og:site_name" content="Çağrı Bolat">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Çağrı Bolat">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"Çağrı Bolat","name":"Çağrı Bolat","url":"https://cagribolat.github.io/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=0b34862b0af01ac489de49a12e4f18f70333c424">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  
+  
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1></h1>
+      
+
+      
 
 
     <meta charset="UTF-8">
@@ -118,14 +157,14 @@
         <p>Hello! I'm Çağrı, a UI/UX Designer, learning new skills in UI/UX design and following the latest trends and technologies.</p>
         
         <div class="project">
-            <h2 id="tesla-web-sitesi-redesign">Tesla Web Sitesi Redesign<a class="anchorjs-link " href="#tesla-web-sitesi-redesign" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+            <h2 id="tesla-web-sitesi-redesign">Tesla Web Sitesi Redesign</h2>
             <a href="https://media.licdn.com/dms/image/D4D2DAQHyo84x5-YNfw/profile-treasury-image-shrink_1920_1920/0/1709302372595?e=1715958000&amp;v=beta&amp;t=HsniLImt7gsPlUXKWmV0edKK_2_4uYlZULN6axTN5tc" target="_blank">Preview</a>
             <a href="https://www.figma.com/file/7LPMc0xhOIgaCbCI85NspF/TESLA.COM" target="_blank">View project Figma</a>
         </div>
 
         <div class="project">
             <hr>
-            <h2 id="getir-redesign">Getir Redesign<a class="anchorjs-link " href="#getir-redesign" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+            <h2 id="getir-redesign">Getir Redesign</h2>
             <a href="https://media.licdn.com/dms/image/D4D2DAQHScyPd7xDobg/profile-treasury-image-shrink_1920_1920/0/1713532501891?e=1715954400&amp;v=beta&amp;t=y7Q0hTFB9ao2my-u-awwItS1LZDmsd1FXTEOlsFYpBs" target="_blank">Preview</a>
             <a href="https://www.figma.com/file/yLoMoGKzkW2cuaA6t1CRCJ/Getir" target="_blank">View project Figma</a>
         </div>
@@ -157,6 +196,15 @@
             <a href="https://www.linkedin.com/in/%C3%A7a%C4%9Fr%C4%B1bolat/" target="_blank" class="linkedin-button">Linkedin</a>
         </div>
     </div>
+
+
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  
 
 
 
