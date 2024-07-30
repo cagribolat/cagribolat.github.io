@@ -93,7 +93,7 @@
         <div class="project">
             <hr>
             <h2>Phone Verification</h2>
-            <a href="https://media.licdn.com/dms/image/D4D2DAQEEhBtGfVtGTg/profile-treasury-image-shrink_1920_1920/0/1715349284376?e=1715954400&amp;v=beta&amp;t=-IaisvtCpenjm_3G3snf7AzR-Dqj8zwrFi9ffPYeUQU" target="_blank">Preview</a>
+            <a href="https://raw.githubusercontent.com/cagribolat/cagribolat.github.io/main/Telefon%20Do%C4%9Frulamas%C4%B1.jpg" target="_blank">Preview</a>
             <a href="https://www.figma.com/file/qlsIaUfsSRHha7UOJqaiA1/Telefon-Do%C4%9Frulamas%C4%B1-Yap%C4%B1m%C4%B1" target="_blank">View project Figma</a>
         </div>
 
