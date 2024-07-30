@@ -29,7 +29,7 @@
             margin: 0 auto;
             text-align: center;
         }
-        h1, h2, h3 {
+        h1, h2 {
             color: #333;
         }
         h1 a {
