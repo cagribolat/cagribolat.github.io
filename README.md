@@ -15,7 +15,7 @@
 <meta name="twitter:card" content="summary">
 <meta property="twitter:title" content="">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"Çağrı Bolat","name":"Çağrı Bolat","url":"https://cagribolat.github.io/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","headline":"","name":"","url":"https://cagribolat.github.io/"}</script>
 <!-- End Jekyll SEO tag -->
 
     <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=28569532924089ed3c22ce31b33ed03ecafe5965">
@@ -43,18 +43,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Çağrı Bolat</title>
+<title></title>
 <meta name="generator" content="Jekyll v3.9.5">
-<meta property="og:title" content="Çağrı Bolat">
+<meta property="og:title" content="">
 <meta property="og:locale" content="en_US">
 <link rel="canonical" href="https://cagribolat.github.io/">
 <meta property="og:url" content="https://cagribolat.github.io/">
-<meta property="og:site_name" content="Çağrı Bolat">
+<meta property="og:site_name" content="">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
-<meta property="twitter:title" content="Çağrı Bolat">
+<meta property="twitter:title" content="">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"Çağrı Bolat","name":"Çağrı Bolat","url":"https://cagribolat.github.io/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","headline":"","name":"","url":"https://cagribolat.github.io/"}</script>
 <!-- End Jekyll SEO tag -->
 
     <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=96530438474c24b7bf528c0068bddca252c535e2">
