@@ -1,5 +1,4 @@
-<html lang="en-US">
-<head>
+<html lang="en-US"><head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -52,19 +51,27 @@
             display: inline-block;
             margin-top: 10px;
             text-decoration: none;
-            color: #333;
             font-weight: lighter;
-            border: 1px solid #007bff; /* Mavi kenarlık */
             padding: 10px 20px;
             border-radius: 5px;
         }
         .project a.preview {
             background-color: #fff; /* Beyaz arka plan */
             color: #333; /* Koyu metin rengi */
+            border: 1px solid #ccc; /* Açık gri kenarlık */
         }
-        .project a:hover, .contact a:hover {
-            background-color: #0056b3; /* Koyu mavi arka plan */
+        .project a.preview:hover {
+            background-color: #fff; /* Hover arka plan rengini beyaz bırak */
+            color: #333; /* Hover metin rengi */
+        }
+        .project a {
+            background-color: #007bff; /* Açık mavi arka plan */
             color: #fff; /* Beyaz metin rengi */
+            border: 1px solid #007bff; /* Mavi kenarlık */
+        }
+        .project a:hover {
+            background-color: #007bff; /* Hover arka plan rengini değiştirme */
+            color: #fff; /* Hover metin rengi */
         }
         .project hr, .contact hr {
             border: 0;
@@ -125,10 +132,11 @@
         <div class="contact">
             <hr>
             <h2 id="contact">Contact</h2>
-            <a href="https://www.linkedin.com/in/%C3%A7a%C4%9Fr%C4%B1bolat/" target="_blank">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/%C3%A7a%C4%9Fr%C4%B1bolat/" target="_blank" style="display: inline-block; padding: 10px 20px; border: 1px solid #007bff; border-radius: 5px; background-color: #007bff; color: #fff; text-decoration: none;">LinkedIn</a>
+
         </div>
     </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-</body>
-</html>
+    
+
+
+</body></html>
