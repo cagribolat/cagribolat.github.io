@@ -29,8 +29,9 @@
             margin: 0 auto;
             text-align: center;
         }
-        h1, h2 {
+        h1 {
             color: #333;
+            text-align: center; /* Sayfa ortalaması için */
         }
         h1 a {
             text-decoration: none;
