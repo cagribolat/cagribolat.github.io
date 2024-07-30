@@ -78,10 +78,12 @@
         <p>Hello! I'm Çağrı, a UI/UX Designer, learning new skills in UI/UX design and following the latest trends and technologies.</p>
         
         <div class="project">
-            <h2>Tesla Web Sitesi Redesign</h2>
-            <a href="[[https://github.com/cagribolat/cagribolat.github.io/blob/main/Tesla%20web%20site%20Redesign.jpg?raw=true)]">Preview</a>
-            <a href="https://www.figma.com/file/7LPMc0xhOIgaCbCI85NspF/TESLA.COM" target="_blank">View project Figma</a>
+            <hr>
+            <h2>OnePage Web Sitesi Design</h2>
+            <a href="https://raw.githubusercontent.com/cagribolat/cagribolat.github.io/main/Tesla%20web%20site%20Redesign.jpg?raw=true" target="_blank">Preview</a>
+            <a href="https://www.figma.com/file/6Lv7JIA6x26RVtNGbIY9OA/onepage" target="_blank">View project Figma</a>
         </div>
+
 
         <div class="project">
             <hr>
