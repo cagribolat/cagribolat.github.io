@@ -31,11 +31,8 @@
         }
         h1 {
             color: #333;
-            text-align: center; /* Sayfa ortalaması için */
-        }
-        h1 a {
-            text-decoration: none;
-            color: #007acc;
+            margin: 0;
+            font-size: 24px;
         }
         .profile-photo {
             width: 150px;
