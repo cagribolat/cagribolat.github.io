@@ -177,7 +177,7 @@
         
         <div class="project">
             <h2 id="tesla-web-sitesi-redesign">Tesla Web Sitesi Redesign<a class="anchorjs-link " href="#tesla-web-sitesi-redesign" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
-            <a href="[https://raw.githubusercontent.com/cagribolat/cagribolat.github.io/main/TESLA.COM.png" target="_blank">Preview</a>
+            <a href=["https://raw.githubusercontent.com/cagribolat/cagribolat.github.io/blob/main/TESLA.COM.jpg?raw=true" target="_blank">Preview</a>
             <a href="https://www.figma.com/file/7LPMc0xhOIgaCbCI85NspF/TESLA.COM" target="_blank">View project Figma</a>
         </div>
 
