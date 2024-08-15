@@ -132,5 +132,3 @@
     <a href="https://github.com/cagribolat/cagribolat.github.io/blob/main/loading.jpg?raw=true" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; font-size: 16px; color: #fff; background-color: #7F7FFF; text-decoration: none; border-radius: 5px;">Preview</a>
     <a href="https://www.figma.com/design/lEmtXrxN01QjDQ3vqS3LP5/Yemek-Sipari%C5%9F-Uygulamas%C4%B1?node-id=0-1" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; font-size: 16px; color: #fff; background-color: #7F7FFF; text-decoration: none; border-radius: 5px;">View project Figma</a>
 </div>
-
-</body></html>
