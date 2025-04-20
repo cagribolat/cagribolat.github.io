@@ -33,12 +33,6 @@
 <div style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px;">
    
 
-
-
-
-
-
-
 <!-- Social Media Links and Stats -->
 <div style="display: flex; justify-content: space-between; align-items: right; margin-bottom: 20px;">
     <!-- Social Media Links -->
