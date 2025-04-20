@@ -1,5 +1,5 @@
 <p align="right">
-<a href="https://komarev.com/ghpvc/?username=cagribolat" target="_blank">
+
     <img src="https://komarev.com/ghpvc/?username=cagribolat&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" 
          alt="Profile views"
          width="120" 
