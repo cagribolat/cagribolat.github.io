@@ -1,3 +1,13 @@
+<p align="right">
+  <a href="https://komarev.com/ghpvc/?username=cagribolat" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=cagribolat&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" 
+         alt="Profile views"
+         width="200" 
+         height="30"
+         style="position: absolute; top: 0; left: 0; display: block; border: none;"/>
+</a>
+
+
 <html><head></head><body><h1 align="center">
   <img src="https://avatars.githubusercontent.com/u/52715393?v=4" alt="Çağrı Bolat" style="width: 100px; height: 100px; border-radius: 50%;">
 </h1>
@@ -21,27 +31,12 @@
 
 <!-- Flex container for aligning images horizontally -->
 <div style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px;">
-    <!-- First image -->
-    <img src="https://camo.githubusercontent.com/9eaf1b83f4ba1e8d7f01cd6e81ed3d59d6089bbbaf4a08602f289735f2087d49/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6361677269626f6c61742673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="cagribolat" style="max-width: 33%; height: auto;">
-
-    <!-- Second image -->
-    <img src="https://camo.githubusercontent.com/f4130c95f748757a16a6c1de8dd864be8929a3f06791735da0fe716dcf0fc25c/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6361677269626f6c617426" alt="cagribolat" style="max-width: 33%; height: auto;">
-
-    <!-- Third image -->
-    <img src="https://camo.githubusercontent.com/8067b0edf79128c4efdac51f440fcb351437d211a73422430576a4f63872bcbf/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6361677269626f6c61742673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="cagribolat" style="max-width: 33%; height: auto;">
-</div>
+   
 
 
 
-<hr>
 
-<a href="https://komarev.com/ghpvc/?username=cagribolat" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=cagribolat&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" 
-         alt="Profile views"
-         width="200" 
-         height="30"
-         style="position: absolute; top: 0; left: 0; display: block; border: none;"/>
-</a>
+
 
 
 <!-- Social Media Links and Stats -->
