@@ -1,10 +1,12 @@
 
-<html><head></head><body><h1 align="center">
+         
+
+<html><head></head><body><h1 align="left">
   <img src="https://avatars.githubusercontent.com/u/52715393?v=4" alt="Çağrı Bolat" style="width: 100px; height: 100px; border-radius: 50%;">
 </h1>
 
-<h1 align="center">Hi 👋, I'm Çağrı</h1>
-<h3 align="center">A passionate UI/UX Designer from <h1> <h1 align="center"> Türkiye</h1>
+<h1 align="left">Hi 👋, I'm Çağrı</h1>
+<h3 align="left">UI/UX Designer<h1> <h1 align="center"></h1>
 
 <p align="left">  </p>
 
@@ -20,18 +22,6 @@
 
 <hr>
 
-</div>
-
-
-
-
-
-<a href="https://komarev.com/ghpvc/?username=cagribolat" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=cagribolat&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" 
-         alt="Profile views"
-         width="200" 
-         height="30"
-         style="position: absolute; top: 0; left: 0; display: block; border: none;"/>
 </a>
 
 
@@ -51,7 +41,7 @@
                 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cagribolat" height="30" width="40">
             </a>
         </p>
-    </div>
+ 
 
     <!-- Stats -->
     <div style="flex: 2; text-align: center;">
