@@ -3,12 +3,12 @@
 </a>
 
 
-<style type="text/css" id="operaUserStyle"></style><h1 align="left">
+<style type="text/css" id="operaUserStyle"></style><h1 align="center">
   <img src="https://avatars.githubusercontent.com/u/52715393?v=4" alt="Çağrı Bolat" style="width: 100px; height: 100px; border-radius: 50%;">
 </h1>
 
-<h1 align="left">Hi 👋, I'm Çağrı</h1>
-<h3 align="left">UI/UX Designer </h3><h1> </h1><h1 align="center"></h1>
+<h1 align="center">Hi 👋, I'm Çağrı</h1>
+<h1 align="center">UI/UX Designer </h1><h1> </h1><h1 align="center"></h1>
 
 <p align="left">  </p>
 
