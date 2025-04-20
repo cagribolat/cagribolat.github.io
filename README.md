@@ -1,4 +1,43 @@
-<html><head><style type="text/css" id="operaUserStyle"></style></head><body><a href="https://komarev.com/ghpvc/?username=cagribolat" target="_blank">
+<html lang="en-US"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Çağrı Bolat</title>
+<meta name="generator" content="Jekyll v3.10.0">
+<meta property="og:title" content="Çağrı Bolat">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://cagribolat.github.io/">
+<meta property="og:url" content="https://cagribolat.github.io/">
+<meta property="og:site_name" content="Çağrı Bolat">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Çağrı Bolat">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"Çağrı Bolat","name":"Çağrı Bolat","url":"https://cagribolat.github.io/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=0c3edaaa6dbebf0d11ace9844207a4c806342eea">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><p hidden=""><a href="https://cagribolat.github.io/">Çağrı Bolat</a></p></h1>
+      
+
+      <style type="text/css" id="operaUserStyle"></style><a href="https://komarev.com/ghpvc/?username=cagribolat" target="_blank">
 <img src="https://komarev.com/ghpvc/?username=cagribolat&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile views" width="120" height="30" style="position: absolute; top: 0; left: 0; display: block; border: none;">
 </a>
 
@@ -13,7 +52,8 @@
 <p align="left">  </p>
 
 
-<h2>
+<h2 id="🔭-i’m-currently-working-on-figma
+🌱-i’m-currently-learning-h">
 
 <p align="center">
 - 🔭 I’m currently working on **Figma**<br>
@@ -36,7 +76,7 @@
 <div style="display: flex; justify-content: space-between; align-items: right; margin-bottom: 20px;">
     <!-- Social Media Links -->
     <div style="flex: 1;">
-        <h2 align="center">Connect with me:</h2>
+        <h2 align="center" id="connect-with-me">Connect with me:<a class="anchorjs-link " href="#connect-with-me" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
         <p align="center">
             <a href="https://twitter.com/editorcagri" target="blank">
                 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="editorcagri" height="30" width="40">
@@ -52,7 +92,7 @@
 
     <!-- Stats -->
     <div style="flex: 2; text-align: center;">
-        <h2 align="">Languages and Tools:</h2>
+        <h2 align="" id="languages-and-tools">Languages and Tools:<a class="anchorjs-link " href="#languages-and-tools" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
         <p align="">
             <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40">
@@ -71,53 +111,63 @@
 
 
 
-</h2><h1 align="center"><b>PROJECTS</b></h1>
+<a class="anchorjs-link " href="#🔭-i’m-currently-working-on-figma
+🌱-i’m-currently-learning-h" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2><h1 align="center"><b>PROJECTS</b></h1>
 
 <div align="center" class="project">
-    <h2 id="tesla-web-sitesi-redesign"><b>Tesla Web Sitesi Redesign</b></h2>
+    <h2 id="tesla-web-sitesi-redesign"><b>Tesla Web Sitesi Redesign</b><a class="anchorjs-link " href="#tesla-web-sitesi-redesign" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
     <a href="https://github.com/cagribolat/cagribolat.github.io/blob/main/TESLA.COM.jpg?raw=true" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; font-size: 16px; color: #fff; background-color: #7F7FFF; text-decoration: none; border-radius: 5px;">Preview</a>
     <a href="https://www.figma.com/file/7LPMc0xhOIgaCbCI85NspF/TESLA.COM" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; font-size: 16px; color: #fff; background-color: #7F7FFF; text-decoration: none; border-radius: 5px;">View project Figma</a>
 </div>
 
 <div align="center" class="project">
     <hr>
-    <h2 id="codecademy-app"><b>Codecademy App</b></h2>
+    <h2 id="codecademy-app"><b>Codecademy App</b><a class="anchorjs-link " href="#codecademy-app" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
     <a href="https://github.com/cagribolat/cagribolat.github.io/blob/main/%C4%B0ntro.png?raw=true" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; font-size: 16px; color: #fff; background-color: #7F7FFF; text-decoration: none; border-radius: 5px;">Preview</a>
     <a href="https://www.figma.com/design/7ddxmTN1hKCIp4qSOj9V1B/Codecademy-App?node-id=4-141&amp;t=mabOPCAd3HaiYFdQ-1" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; font-size: 16px; color: #fff; background-color: #7F7FFF; text-decoration: none; border-radius: 5px;">View project Figma</a>
 </div>
 
 <div align="center" class="project">
     <hr>
-    <h2 id="getir-redesign"><b>Getir Redesign</b></h2>
+    <h2 id="getir-redesign"><b>Getir Redesign</b><a class="anchorjs-link " href="#getir-redesign" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
     <a href="https://raw.githubusercontent.com/cagribolat/cagribolat.github.io/main/Getir%20Redesign.jpg" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; font-size: 16px; color: #fff; background-color: #7F7FFF; text-decoration: none; border-radius: 5px;">Preview</a>
     <a href="https://www.figma.com/file/yLoMoGKzkW2cuaA6t1CRCJ/Getir" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; font-size: 16px; color: #fff; background-color: #7F7FFF; text-decoration: none; border-radius: 5px;">View project Figma</a>
 </div>
 
 <div align="center" class="project">
     <hr>
-    <h2 id="milevni"><b>MİLEVNİ</b></h2>
+    <h2 id="milevni"><b>MİLEVNİ</b><a class="anchorjs-link " href="#milevni" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
     <a href="https://github.com/cagribolat/cagribolat.github.io/blob/main/M%C4%B0LEVN%C4%B0.png?raw=true" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; font-size: 16px; color: #fff; background-color: #7F7FFF; text-decoration: none; border-radius: 5px;">Preview</a>
     <a href="https://www.figma.com/design/3tUiY3PRFeWtgRDCCb7Ysk/M%C4%B0LEVN%C4%B0?node-id=53-74&amp;t=ipbhHnoj4QxCo5Rw-1" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; font-size: 16px; color: #fff; background-color: #7F7FFF; text-decoration: none; border-radius: 5px;">View project Figma</a>
 </div>
 
 <div align="center" class="project">
     <hr>
-    <h2 id="phone-verification"><b>Phone Verification</b></h2>
+    <h2 id="phone-verification"><b>Phone Verification</b><a class="anchorjs-link " href="#phone-verification" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
     <a href="https://raw.githubusercontent.com/cagribolat/cagribolat.github.io/main/Telefon%20Do%C4%9Frulamas%C4%B1.jpg" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; font-size: 16px; color: #fff; background-color: #7F7FFF; text-decoration: none; border-radius: 5px;">Preview</a>
     <a href="https://www.figma.com/file/qlsIaUfsSRHha7UOJqaiA1/Telefon-Do%C4%9Frulamas%C4%B1-Yap%C4%B1m%C4%B1" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; font-size: 16px; color: #fff; background-color: #7F7FFF; text-decoration: none; border-radius: 5px;">View project Figma</a>
 </div>
 
 <div align="center" class="project">
     <hr>
-    <h2 id="onepage-web-sitesi-design"><b>OnePage Web Sitesi Design</b></h2>
+    <h2 id="onepage-web-sitesi-design"><b>OnePage Web Sitesi Design</b><a class="anchorjs-link " href="#onepage-web-sitesi-design" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
     <a href="https://github.com/cagribolat/cagribolat.github.io/blob/main/onepage.jpg?raw=true" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; font-size: 16px; color: #fff; background-color: #7F7FFF; text-decoration: none; border-radius: 5px;">Preview</a>
     <a href="https://www.figma.com/file/6Lv7JIA6x26RVtNGbIY9OA/onepage" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; font-size: 16px; color: #fff; background-color: #7F7FFF; text-decoration: none; border-radius: 5px;">View project Figma</a>
 </div>
 
 <div align="center" class="project">
     <hr>
-    <h2 id="yemek-sipariş-uygulaması"><b>Yemek-Sipariş-Uygulaması</b></h2>
+    <h2 id="yemek-sipariş-uygulaması"><b>Yemek-Sipariş-Uygulaması</b><a class="anchorjs-link " href="#yemek-sipariş-uygulaması" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
     <a href="https://github.com/cagribolat/cagribolat.github.io/blob/main/loading.jpg?raw=true" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; font-size: 16px; color: #fff; background-color: #7F7FFF; text-decoration: none; border-radius: 5px;">Preview</a>
     <a href="https://www.figma.com/design/lEmtXrxN01QjDQ3vqS3LP5/Yemek-Sipari%C5%9F-Uygulamas%C4%B1?node-id=0-1" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; font-size: 16px; color: #fff; background-color: #7F7FFF; text-decoration: none; border-radius: 5px;">View project Figma</a>
 </div>
+
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  
+
 </body></html>
