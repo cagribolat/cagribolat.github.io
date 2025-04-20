@@ -1,17 +1,19 @@
-<p align="right">
+<p align="right">  </p> 
 
+<a href="https://komarev.com/ghpvc/?username=cagribolat" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=cagribolat&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" 
          alt="Profile views"
          width="120" 
          height="30"
          style="position: absolute; top: 0; left: 0; display: block; border: none;"/>
-    
-<html><head></head><body><h1 align="left">
+
+
+<html><head></head><body><h1 align="center">
   <img src="https://avatars.githubusercontent.com/u/52715393?v=4" alt="Çağrı Bolat" style="width: 100px; height: 100px; border-radius: 50%;">
 </h1>
 
 <h1 align="center">Hi 👋, I'm Çağrı</h1>
-<h3 align="center">A passionate UI/UX Designer from <h1> <h1 align="center"> Türkiye</h1>
+<h3 align="center">UI/UX Designer <h1> <h1 align="center"> </h1>
 
 <p align="left">  </p>
 
@@ -28,6 +30,7 @@
 <hr>
 
 </div>
+
 
 
 
@@ -53,26 +56,6 @@
             </a>
         </p>
     </div>
-
-    <!-- Stats -->
-    <div style="flex: 2; text-align: center;">
-        <h2 align="">Languages and Tools:</h2>
-        <p align="">
-            <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40">
-            </a>
-            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40">
-            </a>
-            <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40">
-            </a>
-        </p>
-    </div>
-</div>
-
-
-
 
 
 <h1 align="center"><b>PROJECTS</b></h1>
