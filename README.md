@@ -1,175 +1,24 @@
-<html lang="en-US" webcrx=""><head>
+<!DOCTYPE html>
+<html lang="en-US" webcrx="">
+<head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Çağrı Bolat</title>
-<meta name="generator" content="Jekyll v3.10.0">
-<meta property="og:title" content="Çağrı Bolat">
-<meta property="og:locale" content="en_US">
-<link rel="canonical" href="https://cagribolat.github.io/">
-<meta property="og:url" content="https://cagribolat.github.io/">
-<meta property="og:site_name" content="Çağrı Bolat">
-<meta property="og:type" content="website">
-<meta name="twitter:card" content="summary">
-<meta property="twitter:title" content="Çağrı Bolat">
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"Çağrı Bolat","name":"Çağrı Bolat","url":"https://cagribolat.github.io/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=6b9186f631932a99bfc6278ff28a6b28ee00b253">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  <script src="blob:https://cagribolat.github.io/9cadd3eb-f6df-4a6a-992a-2c7bee9cd1dd"></script></head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://cagribolat.github.io/">Çağrı Bolat</a></h1>
-      
-
-      
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Çağrı Bolat</title>
-<meta name="generator" content="Jekyll v3.10.0">
-<meta property="og:title" content="Çağrı Bolat">
-<meta property="og:locale" content="en_US">
-<link rel="canonical" href="https://cagribolat.github.io/">
-<meta property="og:url" content="https://cagribolat.github.io/">
-<meta property="og:site_name" content="Çağrı Bolat">
-<meta property="og:type" content="website">
-<meta name="twitter:card" content="summary">
-<meta property="twitter:title" content="Çağrı Bolat">
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"Çağrı Bolat","name":"Çağrı Bolat","url":"https://cagribolat.github.io/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=d646e9debea8983092ad02b57684fdfa75a50e0a">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  <script src="blob:https://cagribolat.github.io/dece1e78-f19c-4452-b5f5-de26fd52a4a6"></script>
-  
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      
-      
-
-      
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title></title>
-<meta name="generator" content="Jekyll v3.10.0">
-<meta property="og:title" content="">
-<meta property="og:locale" content="en_US">
-<link rel="canonical" href="https://cagribolat.github.io/">
-<meta property="og:url" content="https://cagribolat.github.io/">
-<meta property="og:site_name" content="">
-<meta property="og:type" content="website">
-<meta name="twitter:card" content="summary">
-<meta property="twitter:title" content="">
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"","name":"","url":"https://cagribolat.github.io/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=46aab488ffb7c1a312a9e77ec697e7157dbc659e">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  <script src="blob:https://cagribolat.github.io/a9745062-2d4f-4153-887c-481349f487d7"></script>
-  
-    <div class="container-lg px-3 my-5 markdown-body">
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title></title>
-<meta name="generator" content="Jekyll v3.10.0">
-<meta property="og:title" content="">
-<meta property="og:locale" content="en_US">
-<link rel="canonical" href="https://cagribolat.github.io/">
-<meta property="og:url" content="https://cagribolat.github.io/">
-<meta property="og:site_name" content="">
-<meta property="og:type" content="website">
-<meta name="twitter:card" content="summary">
-<meta property="twitter:title" content="">
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"","name":"","url":"https://cagribolat.github.io/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=457f7c61326bdc89bb7b25e738d61c3596500d90">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-
-
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <title></title>
+    <title>Çağrı Bolat</title>
     <meta name="generator" content="Jekyll v3.10.0">
-    <meta property="og:title" content="">
+    <meta property="og:title" content="Çağrı Bolat">
     <meta property="og:locale" content="en_US">
     <link rel="canonical" href="https://cagribolat.github.io/">
     <meta property="og:url" content="https://cagribolat.github.io/">
-    <meta property="og:site_name" content="">
+    <meta property="og:site_name" content="Çağrı Bolat">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary">
-    <meta property="twitter:title" content="">
+    <meta property="twitter:title" content="Çağrı Bolat">
     <script type="application/ld+json">
-        {"@context":"https://schema.org","@type":"WebSite","headline":"","name":"","url":"https://cagribolat.github.io/"}
+        {"@context":"https://schema.org","@type":"WebSite","headline":"Çağrı Bolat","name":"Çağrı Bolat","url":"https://cagribolat.github.io/"}
     </script>
-    <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=9bdc8598454de140a8f3b4fa7cab7654e3e18ae1">
-    <script src="blob:https://cagribolat.github.io/2edaba31-b8af-4746-85ab-88046e5dc481"></script><style type="text/css" id="operaUserStyle"></style><meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title></title>
-    <meta name="generator" content="Jekyll v3.10.0">
-    <meta property="og:title" content="">
-    <meta property="og:locale" content="en_US">
-    <link rel="canonical" href="https://cagribolat.github.io/">
-    <meta property="og:url" content="https://cagribolat.github.io/">
-    <meta property="og:site_name" content="">
-    <meta property="og:type" content="website">
-    <meta name="twitter:card" content="summary">
-    <meta property="twitter:title" content="">
-    <script type="application/ld+json">
-        {"@context":"https://schema.org","@type":"WebSite","headline":"","name":"","url":"https://cagribolat.github.io/"}
-    </script>
-    <link rel="stylesheet" href="/assets/css/style.css?v=0c3edaaa6dbebf0d11ace9844207a4c806342eea">
+    <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=6ed55c870eb1dccd84f260cdabd02d1b50dbdb0a">
     <style>
         /* Buraya temel stil tanımlamaları gelebilir veya harici CSS dosyanız kullanılabilir */
         body {
@@ -252,15 +101,17 @@
             margin: 20px 0;
         }
     </style>
-
-
-    <div class="container+1g pxmy-0markdown-body">
-        
-        
+</head>
+<body>
+    <div class="container-lg px-3 my-5 markdown-body">
+        <h1 hidden=""><a href="https://cagribolat.github.io/">Çağrı Bolat</a></h1>
+        <a href="https://komarev.com/ghpvc/?username=cagribolat" target="_blank">
+            <img src="https://komarev.com/ghpvc/?username=cagribolat&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile views" width="120" height="30" style="position: absolute; top: 0; left: 0; display: block; border: none;">
+        </a>
         <h1 align="center">
             <img src="https://avatars.githubusercontent.com/u/52715393?v=4" alt="Çağrı Bolat" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin: 0 auto;">
         </h1>
-        <h1 align="center">Hi, I'm Çağrı</h1>
+        <h1 align="center">Hi 👋, I'm Çağrı</h1>
         <h1 align="center">UI/UX Designer </h1>
 
         <p align="center">
@@ -269,7 +120,7 @@
             - 👯 I’m looking to collaborate on **Figma**<br>
             - 🤝 I’m looking for help with **Figma**
         </p>
-        
+        <hr>
         <div style="display: flex; justify-content: space-between; align-items: right; margin-bottom: 20px;">
             <div style="flex: 1;">
                 <h2 align="center" id="connect-with-me">Connect with me:<a class="anchorjs-link " href="#connect-with-me" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
@@ -332,32 +183,9 @@
                 <a href="https://github.com/cagribolat/cagribolat.github.io/blob/main/onepage.jpg?raw=true" target="_blank" class="button preview">Preview</a>
                 <a href="https://www.figma.com/file/6Lv7JIA6x26RVtNGbIY9OA/onepage" target="_blank" class="button figma">View project Figma</a>
             </div>
-</div></div>
-
-
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script><script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  
-
-
-
-
-      
+        </div>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
-  
-
-
-
-
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  
-
-</body></html>
+</body>
+</html>
