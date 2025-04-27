@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Çağrı Bolat</title>
+    <title></title>
     <meta name="generator" content="Jekyll v3.10.0">
     <meta property="og:title" content="Çağrı Bolat">
     <meta property="og:locale" content="en_US">
