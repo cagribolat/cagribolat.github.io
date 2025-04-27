@@ -10,12 +10,12 @@
 <meta property="og:locale" content="en_US">
 <link rel="canonical" href="https://cagribolat.github.io/">
 <meta property="og:url" content="https://cagribolat.github.io/">
-<meta property="og:site_name" content="Çağrı Bolat">
+<meta property="og:site_name" content="">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
-<meta property="twitter:title" content="Çağrı Bolat">
+<meta property="twitter:title" content="">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"","name":"Çağrı Bolat","url":"https://cagribolat.github.io/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","headline":"","name":"","url":"https://cagribolat.github.io/"}</script>
 <!-- End Jekyll SEO tag -->
 
     <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=46aab488ffb7c1a312a9e77ec697e7157dbc659e">
@@ -38,18 +38,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Çağrı Bolat</title>
+<title></title>
 <meta name="generator" content="Jekyll v3.10.0">
-<meta property="og:title" content="Çağrı Bolat">
+<meta property="og:title" content="">
 <meta property="og:locale" content="en_US">
 <link rel="canonical" href="https://cagribolat.github.io/">
 <meta property="og:url" content="https://cagribolat.github.io/">
-<meta property="og:site_name" content="Çağrı Bolat">
+<meta property="og:site_name" content="">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
-<meta property="twitter:title" content="Çağrı Bolat">
+<meta property="twitter:title" content="">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"Çağrı Bolat","name":"Çağrı Bolat","url":"https://cagribolat.github.io/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","headline":"","name":"","url":"https://cagribolat.github.io/"}</script>
 <!-- End Jekyll SEO tag -->
 
     <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=457f7c61326bdc89bb7b25e738d61c3596500d90">
@@ -67,29 +67,29 @@
     <meta property="og:locale" content="en_US">
     <link rel="canonical" href="https://cagribolat.github.io/">
     <meta property="og:url" content="https://cagribolat.github.io/">
-    <meta property="og:site_name" content="Çağrı Bolat">
+    <meta property="og:site_name" content="">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary">
     <meta property="twitter:title" content="">
     <script type="application/ld+json">
-        {"@context":"https://schema.org","@type":"WebSite","headline":"Çağrı Bolat","name":"Çağrı Bolat","url":"https://cagribolat.github.io/"}
+        {"@context":"https://schema.org","@type":"WebSite","headline":"","name":"","url":"https://cagribolat.github.io/"}
     </script>
     <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=9bdc8598454de140a8f3b4fa7cab7654e3e18ae1">
     <script src="blob:https://cagribolat.github.io/2edaba31-b8af-4746-85ab-88046e5dc481"></script><style type="text/css" id="operaUserStyle"></style><meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Çağrı Bolat</title>
+    <title></title>
     <meta name="generator" content="Jekyll v3.10.0">
-    <meta property="og:title" content="Çağrı Bolat">
+    <meta property="og:title" content="">
     <meta property="og:locale" content="en_US">
     <link rel="canonical" href="https://cagribolat.github.io/">
     <meta property="og:url" content="https://cagribolat.github.io/">
-    <meta property="og:site_name" content="Çağrı Bolat">
+    <meta property="og:site_name" content="">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary">
-    <meta property="twitter:title" content="Çağrı Bolat">
+    <meta property="twitter:title" content="">
     <script type="application/ld+json">
-        {"@context":"https://schema.org","@type":"WebSite","headline":"Çağrı Bolat","name":"Çağrı Bolat","url":"https://cagribolat.github.io/"}
+        {"@context":"https://schema.org","@type":"WebSite","headline":"","name":"","url":"https://cagribolat.github.io/"}
     </script>
     <link rel="stylesheet" href="/assets/css/style.css?v=0c3edaaa6dbebf0d11ace9844207a4c806342eea">
     <style>
