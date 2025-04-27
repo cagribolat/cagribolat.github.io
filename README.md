@@ -105,7 +105,6 @@
     <div class="container-lg px-3 my-5 markdown-body">
         <h1 hidden=""><a href="https://cagribolat.github.io/">Çağrı Bolat</a></h1>
         
-        </a>
         <h1 align="center">
             <img src="https://avatars.githubusercontent.com/u/52715393?v=4" alt="Çağrı Bolat" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin: 0 auto;">
         </h1>
