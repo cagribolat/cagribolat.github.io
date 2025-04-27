@@ -18,6 +18,45 @@
 {"@context":"https://schema.org","@type":"WebSite","headline":"Çağrı Bolat","name":"Çağrı Bolat","url":"https://cagribolat.github.io/"}</script>
 <!-- End Jekyll SEO tag -->
 
+    <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=8c58f1de604451aba469fa17adc257c7f423a971">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  <script src="blob:https://cagribolat.github.io/166f3a4a-ca5b-49b5-b1d7-97e282fc9bb8"></script><style type="text/css" id="operaUserStyle"></style></head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://cagribolat.github.io/">Çağrı Bolat</a></h1>
+      
+
+      
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Çağrı Bolat</title>
+<meta name="generator" content="Jekyll v3.10.0">
+<meta property="og:title" content="Çağrı Bolat">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://cagribolat.github.io/">
+<meta property="og:url" content="https://cagribolat.github.io/">
+<meta property="og:site_name" content="Çağrı Bolat">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Çağrı Bolat">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"Çağrı Bolat","name":"Çağrı Bolat","url":"https://cagribolat.github.io/"}</script>
+<!-- End Jekyll SEO tag -->
+
     <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=220b5e5b80ae18f23cfe2bd93e60ecd3c6a3ce3b">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
@@ -30,11 +69,11 @@
 
 <!-- end custom head snippets -->
 
-  <script src="blob:https://cagribolat.github.io/01d10d8a-ec69-4eda-a6f4-bb9b26545c63"></script><script src="blob:https://cagribolat.github.io/70df610e-336f-4a05-9539-266bac4c9a28"></script></head>
-  <body>
+  <script src="blob:https://cagribolat.github.io/01d10d8a-ec69-4eda-a6f4-bb9b26545c63"></script><script src="blob:https://cagribolat.github.io/70df610e-336f-4a05-9539-266bac4c9a28"></script>
+  
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://cagribolat.github.io/">Çağrı Bolat</a></h1>
+      
       
 
       
@@ -296,7 +335,7 @@
                 <h1 id="ui-ux-designer
 p class="><p><b>UI/UX Designer</b></p>
         <section class="about">
-            <h2 id="about-me">About Me<a class="anchorjs-link " href="#about-me" aria-label="" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+            <h4 id="about-me">About Me<a class="anchorjs-link " href="#about-me" aria-label="" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
             <p align="center">
                 - 🔭 I’m currently working on **Figma**<br>
                 - 🌱 I’m currently learning **Html**<br>
@@ -378,6 +417,15 @@ p class="><p><b>UI/UX Designer</b></p>
     <script>anchors.add();</script><script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
 </h1></div></header></div></div></div>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  
+
+
 
 
       
