@@ -18,6 +18,45 @@
 {"@context":"https://schema.org","@type":"WebSite","headline":"Çağrı Bolat","name":"Çağrı Bolat","url":"https://cagribolat.github.io/"}</script>
 <!-- End Jekyll SEO tag -->
 
+    <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=0de1f1adb7732f035221b5b2826805ee415fa0e9">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  <script src="blob:https://cagribolat.github.io/4ce61d8b-997b-4855-9a3d-c5d76bdda6b2"></script></head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://cagribolat.github.io/">Çağrı Bolat</a></h1>
+      
+
+      
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Çağrı Bolat</title>
+<meta name="generator" content="Jekyll v3.10.0">
+<meta property="og:title" content="Çağrı Bolat">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://cagribolat.github.io/">
+<meta property="og:url" content="https://cagribolat.github.io/">
+<meta property="og:site_name" content="Çağrı Bolat">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Çağrı Bolat">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"Çağrı Bolat","name":"Çağrı Bolat","url":"https://cagribolat.github.io/"}</script>
+<!-- End Jekyll SEO tag -->
+
     <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=3bd2178f59dac87fb7d54c3d43a6ddaffa463d40">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
@@ -30,11 +69,11 @@
 
 <!-- end custom head snippets -->
 
-  <script src="blob:https://cagribolat.github.io/9da9062f-e35e-418c-be42-058a396e0b1a"></script></head>
-  <body>
+  <script src="blob:https://cagribolat.github.io/9da9062f-e35e-418c-be42-058a396e0b1a"></script>
+  
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://cagribolat.github.io/">Çağrı Bolat</a></h1>
+      <h1></h1>
       
 
       
@@ -296,16 +335,10 @@ p class="><p><b>UI/UX Designer</b></p>
                 <a href="https://github.com/cagribolat/cagribolat.github.io/blob/main/loading.jpg?raw=true" target="_blank" class="button preview">Preview</a>
                 <a href="https://www.figma.com/design/lEmtXrxN01QjDQ3vqS3LP5/Yemek-Sipari%C5%9F-Uygulamas%C4%B1?node-id=0-1" target="_blank" class="button figma">View project Figma</a>
             </div>
-        </section></h2></div></header></div>
-
-
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+        </section><script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script><script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
-  
-
-
+</h1></div></header></div></div></div>
 
 
       
