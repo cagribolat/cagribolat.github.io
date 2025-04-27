@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en-US" webcrx="">
 <head>
     <meta charset="UTF-8">
@@ -105,8 +104,7 @@
 <body>
     <div class="container-lg px-3 my-5 markdown-body">
         <h1 hidden=""><a href="https://cagribolat.github.io/">Çağrı Bolat</a></h1>
-        <a href="https://komarev.com/ghpvc/?username=cagribolat" target="_blank">
-            <img src="https://komarev.com/ghpvc/?username=cagribolat&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile views" width="120" height="30" style="position: absolute; top: 0; left: 0; display: block; border: none;">
+        
         </a>
         <h1 align="center">
             <img src="https://avatars.githubusercontent.com/u/52715393?v=4" alt="Çağrı Bolat" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin: 0 auto;">
